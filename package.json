@@ -1,0 +1,28 @@
+{
+  "name": "teamGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyazdi13/teamGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyazdi13/teamGenerator/issues"
+  },
+  "homepage": "https://github.com/yyazdi13/teamGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.1",
+    "jest": "^24.9.0"
+  }
+}
